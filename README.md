@@ -1,6 +1,6 @@
 # Dynamic Event Calendar App
 
-![Dynamic Event Calendar](https://via.placeholder.com/600x200.png?text=Dynamic+Event+Calendar+App) <!-- Replace with your app's image -->
+![Dynamic Event Calendar](https://via.placeholder.com/600x200.png?text=Dynamic+Event+Calendar+App)
 
 ## Description
 
